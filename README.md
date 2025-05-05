@@ -15,9 +15,9 @@ This repo contains the full IT asset audit and GRC-aligned implementation plan f
 This playbook supports non-profits scaling securely, using NIST/ISO principles in real-world settings.
 
 ## 💼 Maintainer
-- **Name:** [Your Full Name Here]
-- **Role:** IT Support & GRC Trainee @ NCRF
-- **LinkedIn:** [Your LinkedIn]
+- **Name:** Dakarai Willis
+- **Role:** IT Support & Esports Coach @ NCRF
+- **LinkedIn:** (https://www.linkedin.com/in/dakarai-willis/)
 
 ## ✅ Future Plans
 - Add version control for SOPs
