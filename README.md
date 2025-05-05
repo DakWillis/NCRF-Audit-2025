@@ -17,7 +17,7 @@ This playbook supports non-profits scaling securely, using NIST/ISO principles i
 ## 💼 Maintainer
 - **Name:** Dakarai Willis
 - **Role:** IT Support & Esports Coach @ NCRF
-- **LinkedIn:** (https://www.linkedin.com/in/dakarai-willis/)
+- **LinkedIn:** https://www.linkedin.com/in/dakarai-willis/
 
 ## ✅ Future Plans
 - Add version control for SOPs
