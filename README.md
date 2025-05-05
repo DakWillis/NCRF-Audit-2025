@@ -1,18 +1,26 @@
-# NCRF IT Audit (2025)
+# NCRF IT Audit & GRC Playbook
 
-This repository contains internal audit materials related to NCRF's tech systems, created to align with NIST/ISO 27001 readiness efforts.
+## 📊 Purpose
+This repo contains the full IT asset audit and GRC-aligned implementation plan for upgrading NCRF's digital infrastructure.
 
-## Contents
-- Final Audit PDF
-- Google Form CSV
-- Organizational Charts
-- Suggestions for Security Improvements
+## 📚 What's Inside
+- Hardware Audit Results (PDF)
+- Employee Survey Responses
+- Updated IT Recommendations
+- Internet Infrastructure Strategy
+- Cloud Organization Templates
+- Daily Task Logs Template
 
-## Tools Used
-- Google Forms
-- Excel/Sheets
-- Canva (infographics)
-- GitHub for version control
+## ✨ Why This Matters
+This playbook supports non-profits scaling securely, using NIST/ISO principles in real-world settings.
 
-## Created By
-Dakarai Willis | Cybersecurity (GRC-Focused)
+## 💼 Maintainer
+- **Name:** [Your Full Name Here]
+- **Role:** IT Support & GRC Trainee @ NCRF
+- **LinkedIn:** [Your LinkedIn]
+
+## ✅ Future Plans
+- Add version control for SOPs
+- Map NIST CSF to actual office workflows
+- Create checklist scripts for inventory reviews
+- 
