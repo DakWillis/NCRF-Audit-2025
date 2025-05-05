@@ -23,4 +23,3 @@ This playbook supports non-profits scaling securely, using NIST/ISO principles i
 - Add version control for SOPs
 - Map NIST CSF to actual office workflows
 - Create checklist scripts for inventory reviews
-- 
